@@ -1,0 +1,6 @@
+{
+  "name": "NASADEV AI Behavioral Engine",
+  "description": "An AI-powered behavioral, emotional, and animal tracking vision engine with multi-camera overlays, and local databases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
